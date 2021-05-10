@@ -2,3 +2,5 @@
 testing
 
 ligic1
+
+parser.build([])
